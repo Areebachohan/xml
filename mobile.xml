@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<Electronics>
+
+<Mobile>
+<samsung>
+<Model> Note 10</Model>
+<price>60000</price>
+<color>Black</color>
+<Memory>128 GB</Memory>
+<Os>Android</Os>
+<Cam>189px</Cam>
+<screensize-description>The simpore OS that has different versions, depending on what device it's on</screensize-description>
+<Rating>6.4</Rating>
+ </samsung>
+</Mobile>
+
+ <Mobile>
+<huawei>
+<Model>Mate 40 pro </Model>
+<price>85000</price>
+<color>Black</color>
+<Memory>8GB + 128 GB</Memory>
+<Os>Android</Os>
+<Cam>64 MB</Cam>
+<screensize-description>The simpore OS that has different versions, depending on what device it's on</screensize-description>
+<Rating>8.4</Rating>
+ </huawei>
+
+
+</Mobile>
+
+
+ <Mobile>
+<Oppo>
+<Model>F 21 pro </Model>
+<price>50000</price>
+<color>Blue</color>
+<Memory>8+5GB</Memory>
+<Os>Android</Os>
+<Cam>64 MB</Cam>
+<screensize-description>The simpore OS that has different versions, depending on what device it's on</screensize-description>
+<Rating>3.4</Rating>
+</Oppo>
+ </Mobile> 
+
+ <Mobile>'[['
+    <infinix>
+    <Model>Hot 12 </Model>
+    <price>25000</price>
+    <color>Black</color>
+    <Memory>5000 64GB</Memory>
+    <Os>Android</Os>
+    <Cam>64 MB</Cam>
+    <screensize-description>The simpore OS that has different versions, depending on what device it's on</screensize-description>
+    <Rating>8.9</Rating>
+    </infinix>
+     </Mobile>
+
+
+     <Mobile>
+        <motorola>
+        <Model>Motorla adge </Model>
+        <price>39500</price>
+        <color>Black</color>
+        <Memory>4GB</Memory>
+        <Os>Android</Os>
+        <Cam>64 MB</Cam>
+        <screensize-description>The simpore OS that has different versions, depending on what device it's on</screensize-description>
+        <Rating>2.6</Rating>
+        </motorola>
+    </Mobile>
+
+</Electronics>

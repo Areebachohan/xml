@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<Ecommerce>   
+ELECTRONIC:
+
+    <Electronic xmlns:handfree="https://www.google.com" xmlns:datacable="https://www.google.com" xmlns:charger="https://www.google.com" xmlns:LED="https://www.google.com" xmlns:iron="https://www.google.com">
+
+
+        <handfree:Product>
+        <Title>Hand Free</Title>
+        <Description>Dummy Data</Description>
+        <Price>600</Price>
+        </handfree:Product>
+      
+        <datacable:Product>
+        <Title>Datacable</Title>
+        <Description>Dummy Data</Description>
+        <Price>300</Price>
+        </datacable:Product>
+        
+        <charger:Product>
+        <Title>charger</Title>
+        <Description>Dummy Data</Description>
+        <Price>1000</Price>
+        </charger:Product>
+
+        <LED:Product>
+        <Title>LED</Title>
+        <Description>Dummy Data</Description>
+        <Price>70000</Price>
+        </LED:Product> 
+
+        <iron:Product>
+        <Title>iron</Title>
+        <Description>Dummy Data</Description>
+        <Price>3000</Price>
+         </iron:Product>
+       
+ </Electronic>
+
+HOMEAPPLIANCE:
+
+<Homeappliance xmlns:coffeemaker="https://www.google.com" xmlns:mixer="https://www.google.com" xmlns:toaster="https://www.google.com" xmlns:stove="https://www.google.com" xmlns:lamp="https://www.google.com">
+
+    <coffeemaker:Product>
+    <Title>coffeemaker</Title>
+    <Description>Dummy Data</Description>
+    <Price>5000</Price>
+    </coffeemaker:Product>
+
+    <mixer:Product>
+    <Title>mixer</Title>
+    <Description>Dummy Data</Description>
+    <Price>3000</Price>
+    </mixer:Product>
+
+    <toaster:Product>
+    <Title>toaster</Title>
+    <Description>Dummy Data</Description>
+    <Price>7000</Price>
+    </toaster:Product>
+
+    <stove:Product>
+    <Title>stove</Title>
+    <Description>Dummy Data</Description>
+    <Price>9000</Price>
+    </stove:Product>
+
+    <lamp:Product>
+    <Title>lamp</Title>
+    <Description>data</Description>
+    <Price>2000</Price>
+    </lamp:Product>
+
+
+</Homeappliance>
+
+WOMEN DRESS:
+
+<womendress xmlns:weddingdress="https://www.google.com" xmlns:tanktop="https://www.google.com" xmlns:hoodie="https://www.google.com" xmlns:coat="https://www.google.com" xmlns:skirt="https://www.google.com">
+
+    <weddingdress:clothes>
+        <Title>weddingdress</Title>
+        <Description>Dummy Data</Description>
+        <Price>120000</Price>
+        </weddingdress:clothes>
+    
+        <tanktop:clothes>
+        <Title>tanktop</Title>
+        <Price>6000</Price>
+        </tanktop:clothes>
+    
+        <hoodie:clothes>
+        <Title>hoodie</Title>
+        <Description>Dummy Data</Description>
+        <Price>9000</Price>
+        </hoodie:clothes>
+    
+        <coat:clothes>
+        <Title>coat</Title>
+        <Description>Dummy Data</Description>
+        <Price>4000</Price>
+        </coat:clothes>
+    
+        <skirt:clothes>
+        <Title>skirt</Title>
+        <Description>Dummy Data</Description>
+        <Price>9000</Price>
+    </skirt:clothes>
+
+</womendress>
+
+
+
+MEN DRESS:
+
+<mendress xmlns:shirt="https://www.google.com" xmlns:jeans="https://www.google.com" xmlns:jacket="https://www.google.com" xmlns:poloshirt="https://www.google.com" xmlns:cargopants="https://www.google.com">
+
+    <shirt:clothes>
+        <Title>shirt</Title>
+        <Description>Dummy Data</Description>
+        <Price>1200</Price>
+        </shirt:clothes>
+    
+        <jeans:clothes>
+        <Title>jeans</Title>
+        <Price>3000</Price>
+        </jeans:clothes>
+    
+        <jacket:clothes>
+        <Title>jacket</Title>
+        <Description>Dummy Data</Description>
+        <Price>7000</Price>
+        </jacket:clothes>
+    
+        <poloshirt:clothes>
+        <Title>poloshirt</Title>
+        <Description>Dummy Data</Description>
+        <Price>3000</Price>
+        </poloshirt:clothes>
+    
+        <cargopants:clothes>
+        <Title>cargopants</Title>
+        <Description>Dummy Data</Description>
+        <Price>6000</Price>
+    </cargopants:clothes>
+
+
+</mendress>
+
+
+</Ecommerce>
